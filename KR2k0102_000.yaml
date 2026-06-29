@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0102/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0102_WYG_000-1a, image: WYG0588/WYG0588-0433a.png}
+body:
+  text: 石柱記箋釋地理類七古蹟之屬提要臣等謹案石柱記箋釋五卷國朝鄭元慶撰元慶字芷畦歸安人吳興山水清佳自六朝以來稱東南名郡自唐時刻有石柱記樹之杼山載其山川陵墓古蹟古器甚詳逮傳世既久嵗月名字遂漫漶不可考歐陽修作集古録以為筆畫奇偉非顔真卿不能書孫覺知湖州聚境內碑碣築墨妙亭貯之凡三十二通石柱埋填淤泥而石柱記遂淪沒不復見康熙辛巳元慶重修府志既成復訪得宋槧石柱記為世所罕覯惟湖州五縣原本祇載其三秀水朱彞尊乃依仿體例托德清武康二縣事跡輯而補之元慶採掇諸書為之注釋其徵據詳明考證精核頗為贍博可取雖於一郡之勝尚未能包括無遺而軼典遺聞其梗槩已略具於此固亦徵文考獻者所必資也乾隆四十六年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:165bcdad676491b6efcfe873991ea710fcff85b1b9c4ada9d916351af70998e3
+metadata:
+  title: 石柱記箋釋
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:45:35.447616'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0102/KR2k0102_000.txt
+hash: sha256:5e0faf28c68fedd8b8f7a8c815a63f9b6354eea5e5fd791fe2fa425800c8adb4
